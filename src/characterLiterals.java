@@ -17,5 +17,10 @@ public class characterLiterals {
         System.out.print("->");
         System.out.print("\'");
         System.out.println("<-");
+
+        System.out.println("\u0041"); // character A
+        System.out.println("\u0968"); // Devangari
+        System.out.println("\u23F3"); // hourglass
+        System.out.println("\u20B9"); // indian rupree symbol
     }
 }
