@@ -1,5 +1,6 @@
 /**
  * Class to show examples of variables
+ * @author Udayan Khattry 
  */
 public class Variables {
     public static void main(String[] args) {

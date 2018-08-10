@@ -1,5 +1,6 @@
 /**
  * Class to show the floating point literal representations in Java.
+ * @author Udayan Khattry
  */
 
 

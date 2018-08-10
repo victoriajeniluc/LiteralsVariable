@@ -1,5 +1,6 @@
 /**
  *  Class to show examples of character literals
+ *  @author Udayan Khattry
  */
 
 public class CLiterals {

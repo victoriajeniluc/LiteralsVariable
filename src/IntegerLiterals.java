@@ -1,5 +1,6 @@
 /**
  * Class to show examples of integer literal representations of 15.
+ * @author Udayan Khattry
  */
 
 public class IntegerLiterals {

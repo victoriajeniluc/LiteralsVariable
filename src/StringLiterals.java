@@ -1,5 +1,6 @@
 /**
  * Class to show examples of string literals
+ * @author Udayan Khattry
  */
 public class StringLiterals {
     public static void main(String[] args) {
